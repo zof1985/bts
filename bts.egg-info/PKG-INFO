@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: bts
+Version: 0.1.0
+Summary: TDF File reader
+Home-page: https://github.com/zof1985/bts
+Author: Luca Zoffoli
+Author-email: lzoffoli@technogym.com
+License: NO LICENCE
+Requires: numpy
+Requires: pandas
+Description-Content-Type: text/markdown
+
+# BTS PACKAGE
+
+Documentation needs to be developed.
